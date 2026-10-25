@@ -9,7 +9,7 @@ This repository contains the final submissions for the STACWARS hackathon. It en
 *   Task 3: [Name of Project 3] (Pending)
 
 ## Repository Structure
-* `/PS2_[Data analytics]/`: Contains the Jupyter Notebook (`solar_prediction_analysis.ipynb`) and the raw dataset (`SolarPrediction.csv`).
+* `PS2_[Data analytics]`: Contains the Jupyter Notebook (`solar_prediction_analysis.ipynb`) and the raw dataset (`SolarPrediction.csv`)and report.pdf('PS2 Data analysis.pdf').
 * `/Task2_[Name]/`: [Description when ready]
 * `/Task3_[Name]/`: [Description when ready]
 
